@@ -1,0 +1,18 @@
+body {
+/*	background-color: #dddddd;*/
+	background-image: url(../pict_Elbrus/elbrus_bw_fon.jpeg);
+	background-size: 100%;
+	background-attachment: fixed;
+	
+}
+
+p {
+	color: #003388;
+	font-size: 24px;
+	font-family: Arial;
+	line-height: 1.4;
+}
+p:first-line {
+	font-weight: 500;
+	color: red;
+}
