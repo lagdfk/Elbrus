@@ -1,3 +1,15 @@
+a {
+	color:red; 
+	font-size: 20px;
+	font-weight: bold;
+	font-family: Helvetica; sans-serif;
+}
+
+a:hover {
+	color: #5680e9;
+	font-size: 20px;
+}
+
 body {
 /*	background-color: #dddddd;*/
 	background-image: url(../pict_Elbrus/elbrus_bw_fon.jpeg);
@@ -15,10 +27,13 @@ p {
 }
 p:first-line {
 	font-weight: 500;
-/*	color: #8860d0;*/
+	color: #5680e9;
 }
+
+
 h2 {
 	font-weight: 500;
+	font-style: italic;
 	font-family: Helvetica;
 	color: #8860d0;
 }
