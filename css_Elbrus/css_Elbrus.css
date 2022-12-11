@@ -7,12 +7,18 @@ body {
 }
 
 p {
-	color: #003388;
-	font-size: 24px;
-	font-family: Arial;
+	color: #333333;
+	text-indent: 50px;
+	font-size: 18px;
+	font-family: Helvetica; sans-serif;
 	line-height: 1.4;
 }
 p:first-line {
 	font-weight: 500;
-	color: red;
+/*	color: #8860d0;*/
+}
+h2 {
+	font-weight: 500;
+	font-family: Helvetica;
+	color: #8860d0;
 }
